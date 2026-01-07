@@ -1,3 +1,11 @@
+:root {
+  --brown-dark: #5a3e2b;
+  --brown-light: #8b5e3c;
+  --orange-main: #d97706;
+  --orange-soft: #f59e0b;
+  --background-soft: #faf7f2;
+}
+
 /* Reset */
 * {
   margin: 0;
